@@ -1,0 +1,19 @@
+[2022-07-30 14:12:07 INF] User is able to click on liquids 
+[2022-07-30 14:12:27 INF] User is able to shop available products
+[2022-07-30 14:12:32 INF] User is able to save cupon 
+[2022-07-30 14:12:40 INF] User is able to save cupon 
+[2022-07-30 14:12:46 INF] User Clicks on Live Chat option 
+[2022-07-30 14:12:48 INF] User is able to click on Live chat
+[2022-07-30 14:12:55 INF] User should select location from dropdown 
+[2022-07-30 14:12:58 INF] User is able to select location 
+[2022-07-30 14:13:05 INF] browser started
+[2022-07-30 14:13:19 INF] URL Loaded
+[2022-07-30 14:13:38 INF] Expected product and actual product displayed are same
+[2022-07-30 14:14:05 INF] browser started
+[2022-07-30 14:14:07 INF] Click on Signup
+[2022-07-30 14:14:13 INF] User is able to signup successfully
+[2022-07-30 14:14:19 INF] browser started
+[2022-07-30 14:14:21 DBG] Read data from excel to  Register
+[2022-07-30 14:14:27 INF] User is able to read data from excel sheet
+[2022-07-30 14:14:33 INF] User should  click on whats new 
+[2022-07-30 14:14:39 INF] User is able to explore the featues un whats new
